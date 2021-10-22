@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Roman 👋👨‍💻
+![](https://visitor-badge.laobi.icu/badge?page_id=romaklym.romaklym)
 
 - 🛫 I'm currently working on Image Classifier cross-platform app that would recognize different models of shoes & sneakers 👟 (built with TensorFlow & Flutter)
 - ⚙️ I'm currently trying to populate my GitHub with my current and previous projects
@@ -11,5 +12,3 @@
 &nbsp;
 
 Languages & Tools:
-[![Python](https://imgur.com/t/programming_languages/YyHERqJ) [![Flutter](https://imgur.com/t/programming_languages/YyHERqJ)
-&nbsp;
