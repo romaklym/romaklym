@@ -8,14 +8,14 @@
 - 📮 How to reach me: You can email me at klymroman@protonmail.com
 
 ## 👨‍💻 Work Experience:
-<h1 align="center">
+<h3 align="center">
   <span style="vertical-align:top; margin:4px"; "font-size: 70%">At </span>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%"> </span>
   <img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="80" style="vertical-align:top; margin:4px">
   <span style="vertical-align:middle";"font-size: 70%"> </span>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%"> </span>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%">as Automation Engineer</span>
-</h1>
+</h3>
 
 ## ✉️ Socials:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
