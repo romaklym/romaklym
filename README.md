@@ -15,12 +15,14 @@
 [![Ubisoft](https://avatars.githubusercontent.com/u/30477886?s=200&v=4) Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/kyiv?isSso=true&refreshStatus=noLoginData) as Automation Engineer
 &nbsp;
 
-## ✉️ Socials:
-<p align="left">
-<a href="mailto:klymroma@protonmail.com"> <img src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4" alt="Python" height="10" style="vertical-align:top; margin:4px"></a>
-</p>
+## 📱 Socials:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
 &nbsp;
+
+## ✉️ Email Me:
+<p align="left">
+<a href="mailto:klymroma@protonmail.com"> <img src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -33,6 +35,6 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaklym&show_icons=true&theme=cobalt2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
