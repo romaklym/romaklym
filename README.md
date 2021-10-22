@@ -9,7 +9,8 @@
 
 ## 👨‍💻 Work Experience:
 <p align="left">
-<img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="60" style="vertical-align:top; margin:4px">
+<h2>Ubisoft as Automation Engineer</h2>
 </p>  
   
 [![Ubisoft](https://avatars.githubusercontent.com/u/30477886?s=200&v=4) Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/kyiv?isSso=true&refreshStatus=noLoginData) as Automation Engineer
