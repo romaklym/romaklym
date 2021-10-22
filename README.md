@@ -28,6 +28,4 @@
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaklym&show_icons=true&theme=cobalt2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaklym&show_icons=true&theme=cobalt2) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
