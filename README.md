@@ -12,13 +12,13 @@
 &nbsp;
 
 ## 👨‍💻 Work Experience:
-<h3 align="center">
+<h3 align="left">
   <span style="vertical-align:top; margin:4px"; "font-size: 70%">At   </span>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%">   </span>
   <img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="80" style="vertical-align:top; margin:4px">
   <span style="vertical-align:top";"font-size: 70%">   </span>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%">   </span>
-  <span style="vertical-align:top; margin:4px"; "font-size: 70%">as Automation Engineer</span>
+  <span style="vertical-align:top; margin:4px"; "font-size: 70%">as Automation Engineer since Dec, 2019</span>
 </h3>
 
 ## 🧰 Languages and Tools:
