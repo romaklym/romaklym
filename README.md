@@ -13,8 +13,8 @@
 &nbsp;
 
 ## 👨‍💻 Work Experience:
-<h3 align="left" style="vertical-align:top">
-  <img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="40" style="vertical-align:top; margin:4px">
+<h3 align="left" style="vertical-align:middle">
+  <img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="40" style="vertical-align:middle; margin:4px">
   <span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;">as Automation Engineer (since Dec, 2019)</span>
 </h3>
 
