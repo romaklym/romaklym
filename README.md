@@ -9,3 +9,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
 &nbsp;
+
+Languages & Tools:
+[![Python](https://imgur.com/t/programming_languages/YyHERqJ) [![Flutter](https://imgur.com/t/programming_languages/YyHERqJ)
+&nbsp;
