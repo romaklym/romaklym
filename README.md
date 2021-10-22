@@ -8,16 +8,17 @@
 - 📮 How to reach me: You can email me at klymroman@protonmail.com
 
 ## 👨‍💻 Work Experience:
-![Ubisoft](https://avatars.githubusercontent.com/u/30477886?s=200&v=4){:height="100px" width="100px"}
-
 <p align="left">
-<img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft as Automation Engineer" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="40" style="vertical-align:top; margin:4px">
 </p>  
   
 [![Ubisoft](https://avatars.githubusercontent.com/u/30477886?s=200&v=4) Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/kyiv?isSso=true&refreshStatus=noLoginData) as Automation Engineer
 &nbsp;
 
 ## ✉️ Socials:
+<p align="left">
+<a href="mailto:klymroma@protonmail.com"> <img src="https://avatars.githubusercontent.com/u/6953970?s=200&v=4" alt="Python" height="10" style="vertical-align:top; margin:4px"></a>
+</p>
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
 &nbsp;
 
@@ -30,3 +31,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
