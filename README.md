@@ -8,11 +8,7 @@
 - 📮 How to reach me: You can email me at klymroman@protonmail.com
 
 ## 👨‍💻 Work Experience:
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="40" style="vertical-align:top; margin:4px">
-</p>
-  
-[![Ubisoft](https://avatars.githubusercontent.com/u/30477886?s=200&v=4) Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/kyiv?isSso=true&refreshStatus=noLoginData) as Automation Engineer
+[![Ubisoft](https://avatars.githubusercontent.com/u/30477886?s=200&v=4s=100) Ubisoft](https://www.ubisoft.com/en-us/company/careers/locations/kyiv?isSso=true&refreshStatus=noLoginData) as Automation Engineer
 &nbsp;
 
 ## ✉️ Socials:
