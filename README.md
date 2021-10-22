@@ -9,11 +9,11 @@
 
 ## 👨‍💻 Work Experience:
 <h3 align="center">
-  <span style="vertical-align:top; margin:4px"; "font-size: 70%">At </span>
-  <span style="vertical-align:top; margin:4px"; "font-size: 70%"> </span>
+  <span style="vertical-align:top; margin:4px"; "font-size: 70%">At   </span>
+  <span style="vertical-align:top; margin:4px"; "font-size: 70%">   </span>
   <img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="80" style="vertical-align:top; margin:4px">
-  <span style="vertical-align:middle";"font-size: 70%"> </span>
-  <span style="vertical-align:top; margin:4px"; "font-size: 70%"> </span>
+  <span style="vertical-align:middle";"font-size: 70%">   </span>
+  <span style="vertical-align:top; margin:4px"; "font-size: 70%">   </span>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%">as Automation Engineer</span>
 </h3>
 
@@ -31,8 +31,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## GitHub Stats:
+## 📌 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaklym&show_icons=true&theme=cobalt2) 
 
-## Top Languages:
+## 📰 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
