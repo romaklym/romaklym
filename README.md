@@ -7,6 +7,10 @@
 - 🧑🏻‍🤝‍🧑🏽 I'm looking to collaborate on improving my Flutter apps & building a possible start-up for Ukrainian 🇺🇦 audience
 - 📮 How to reach me: You can email me at klymroman@protonmail.com
 
+## ✉️ Socials:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
+&nbsp;
+
 ## 👨‍💻 Work Experience:
 <h3 align="center">
   <span style="vertical-align:middle; margin:4px"; "font-size: 70%">At   </span>
@@ -16,10 +20,6 @@
   <span style="vertical-align:middle; margin:4px"; "font-size: 70%">   </span>
   <span style="vertical-align:middle; margin:4px"; "font-size: 70%">as Automation Engineer</span>
 </h3>
-
-## ✉️ Socials:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
-&nbsp;
 
 ## 🧰 Languages and Tools:
 <p align="center">
