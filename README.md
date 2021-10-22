@@ -14,7 +14,7 @@
 </p>
 
 ## ✉️ Socials:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.pngs=100) LinkedIn](https://www.linkedin.com/in/klymroman/)
 &nbsp;
 
 ## 🧰 Languages and Tools:
