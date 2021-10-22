@@ -9,6 +9,7 @@
 
 ## 👨‍💻 Work Experience:
 <p align="center">
+<h align="center">
 <img src="https://avatars.githubusercontent.com/u/30477886?s=200&v=4" alt="Ubisoft" height="60" style="vertical-align:top; margin:4px">
 <h3>as Automation Engineer</h3>
 </p>
