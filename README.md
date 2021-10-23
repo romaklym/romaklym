@@ -13,8 +13,9 @@
 &nbsp;
 
 ## 👨‍💻 Work Experience:
-<p align="center">
-  <span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;">@Ubisoft as Automation Engineer (since Dec, 2019)</span>
+<p align="left">
+  <a href="https://www.ubisoft.com/en-us/company/careers/locations/kyiv" target="_blank">@Ubisoft </a>
+  <span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;"> as Automation Engineer (since Dec, 2019)</span>
 </p>
 
 ## 🧰 Languages and Tools:
