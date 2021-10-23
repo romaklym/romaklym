@@ -29,6 +29,7 @@
 <img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" alt="Selenium" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 <img src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" alt="OpenCV" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" height="40" style="vertical-align:top; margin:4px">
 </p>
 
