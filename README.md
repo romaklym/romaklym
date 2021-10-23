@@ -40,4 +40,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
 
 ## Wakatime Stats:
-[![romaklym's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romaklym)](https://github.com/romaklym/github-readme-stats)
+[![romaklym's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romaklym)](https://github.com/anuraghazra/github-readme-stats)
+
