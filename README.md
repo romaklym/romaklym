@@ -9,8 +9,9 @@
 - 📮 How to reach me: You can email me at klymroman@protonmail.com
 
 ## ✉️ Socials:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/klymroman/)
-&nbsp;
+<a href="https://www.linkedin.com/in/klymroman/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## 👨‍💻 Work Experience:
 <p align="left">
