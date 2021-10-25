@@ -41,6 +41,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
 
 <!--START_SECTION:waka-->
+```text
+Python   1 hr 3 mins     █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 [![romaklym's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romaklym)](https://github.com/anuraghazra/github-readme-stats)
