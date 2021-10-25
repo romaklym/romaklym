@@ -46,5 +46,3 @@ Python   1 hr 3 mins     ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
-[![romaklym's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=romaklym)](https://github.com/anuraghazra/github-readme-stats)
-
