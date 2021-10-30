@@ -40,7 +40,7 @@
 ## 📰 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
 
-## 🗓️ Usage Stats:
+## 🗓️ Weekly Usage Stats:
 <!--START_SECTION:waka-->
 ```text
 Python      8 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.42 % 
