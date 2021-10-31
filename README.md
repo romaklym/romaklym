@@ -37,9 +37,6 @@
 ## 📌 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaklym&show_icons=true&theme=cobalt2) 
 
-## 📰 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaklym&theme=cobalt2)
-
 ## 🗓️ Weekly Usage Stats:
 <!--START_SECTION:waka-->
 ```text
