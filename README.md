@@ -17,9 +17,12 @@
 <p align="left">
   <a href="https://www.ubisoft.com/en-us/" target="_blank">@Ubisoft </a>
   <span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;"> as Automation Engineer (since Dec, 2019 till Nov, 2021)</span>
-  <a href="https://www.vokigames.com/en-us/" target="_blank">@VOKI Games </a>
-  <span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;"> as Middle Automation Engineer (since Dec, 2021)</span>
 </p>
+<p align="left">
+<a href="https://www.vokigames.com/en-us/" target="_blank">@VOKI Games </a>
+<span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;"> as Middle Automation Engineer (since Dec, 2021)</span>
+</p>
+    
 
 ## 🧰 Languages and Tools:
 <p align="left">
