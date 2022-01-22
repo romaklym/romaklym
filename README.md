@@ -45,7 +45,7 @@
 ## 🗓️ Weekly Usage Stats:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.91 % 
 ```
 <!--END_SECTION:waka-->
 
