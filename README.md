@@ -2,16 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=romaklym.romaklym) [![Github](https://img.shields.io/github/followers/romaklym?label=Follow&style=social)](https://github.com/romaklym)
 
-- 🛫 I'm currently working on Image Classifier cross-platform app that would recognize different models of shoes & sneakers 👟 (built with TensorFlow & Flutter)
-- ⚙️ I'm currently trying to populate my GitHub with my current and previous projects
-- 📖 I'm currently learning TensorFlow for Machine Learning, Python for Data Science and Flutter for cross-platform (iOS, Android, macOS, Web, Linux & Windows Desktop) application development
-- 🧑🏻‍🤝‍🧑🏽 I'm looking to collaborate on improving my Flutter apps & building a possible start-up for Ukrainian 🇺🇦 audience
-- 📮 How to reach me: You can email me at klymroman@protonmail.com
-
-## ✉️ Socials:
-<a href="https://www.linkedin.com/in/klymroman/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+🚀 Currently engaged in the development of a cutting-edge Image Classifier cross-platform app designed to recognize various models of shoes and sneakers 👟. Leveraging TensorFlow and Flutter to create a seamless user experience.
+⚙️ Actively curating my GitHub repository with a portfolio of ongoing and past projects that showcase my technical proficiency and problem-solving skills.
+📚 Pursuing advanced knowledge in TensorFlow for Machine Learning, Python for Data Science, and Flutter for cross-platform application development spanning iOS, Android, macOS, Web, Linux, and Windows Desktop.
+🤝 Seeking collaborative opportunities to enhance my Flutter applications and explore potential partnerships for a startup catering to the NA market.
+📬 Connect with me via email at klymroman@protonmail.com to explore synergies, share insights, or discuss potential collaborations.
 
 ## 👨‍💻 Work Experience:
 <p align="left">
