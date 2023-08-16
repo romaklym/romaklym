@@ -2,11 +2,11 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=romaklym.romaklym) [![Github](https://img.shields.io/github/followers/romaklym?label=Follow&style=social)](https://github.com/romaklym)
 
-🚀 Currently engaged in the development of a cutting-edge Image Classifier cross-platform app designed to recognize various models of shoes and sneakers 👟. Leveraging TensorFlow and Flutter to create a seamless user experience.
-⚙️ Actively curating my GitHub repository with a portfolio of ongoing and past projects that showcase my technical proficiency and problem-solving skills.
-📚 Pursuing advanced knowledge in TensorFlow for Machine Learning, Python for Data Science, and Flutter for cross-platform application development spanning iOS, Android, macOS, Web, Linux, and Windows Desktop.
-🤝 Seeking collaborative opportunities to enhance my Flutter applications and explore potential partnerships for a startup catering to the NA market.
-📬 Connect with me via email at klymroman@protonmail.com to explore synergies, share insights, or discuss potential collaborations.
+- 🚀 Currently engaged in the development of a cutting-edge Image Classifier cross-platform app designed to recognize various models of shoes and sneakers 👟. Leveraging TensorFlow and Flutter to create a seamless user experience.
+- ⚙️ Actively curating my GitHub repository with a portfolio of ongoing and past projects that showcase my technical proficiency and problem-solving skills.
+- 📚 Pursuing advanced knowledge in TensorFlow for Machine Learning, Python for Data Science, and Flutter for cross-platform application development spanning iOS, Android, macOS, Web, Linux, and Windows Desktop.
+- 🤝 Seeking collaborative opportunities to enhance my Flutter applications and explore potential partnerships for a startup catering to the NA market.
+- 📬 Connect with me via email at klymroman@protonmail.com to explore synergies, share insights, or discuss potential collaborations.
 
 ## 👨‍💻 Work Experience:
 <p align="left">
