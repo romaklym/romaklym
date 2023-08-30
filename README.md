@@ -17,8 +17,4 @@
 <a href="https://www.vokigames.com/en-us/" target="_blank">@VOKI Games </a>
 <span style="vertical-align:top; margin:4px"; "font-size: 70%"; "margin-left: 20em;"> as Middle Automation Engineer (since Dec, 2021 till Aug, 2023)</span>
 </p>
-    
-
-## 📌 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=romaklym&show_icons=true&theme=cobalt2) 
 
