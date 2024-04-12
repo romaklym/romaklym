@@ -2,11 +2,27 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=romaklym.romaklym) [![Github](https://img.shields.io/github/followers/romaklym?label=Follow&style=social)](https://github.com/romaklym)
 
-- 🚀 Currently engaged in the development of a cutting-edge Image Classifier cross-platform app designed to recognize various models of shoes and sneakers 👟. Leveraging TensorFlow and Flutter to create a seamless user experience.
-- ⚙️ Actively curating my GitHub repository with a portfolio of ongoing and past projects that showcase my technical proficiency and problem-solving skills.
-- 📚 Pursuing advanced knowledge in TensorFlow for Machine Learning, Python for Data Science, and Flutter for cross-platform application development spanning iOS, Android, macOS, Web, Linux, and Windows Desktop.
-- 🤝 Seeking collaborative opportunities to enhance my Flutter applications and explore potential partnerships for a startup catering to the NA market.
-- 📬 Connect with me via email at klymroman@protonmail.com to explore synergies, share insights, or discuss potential collaborations.
+🚀 What I'm Up To:
+
+Currently leading the development of NachoApps, a dynamic startup focused on crafting beautiful, fast, and slick cross-platform apps and mobile games. Our flagship project is an immersive cross-platform mobile game set in New York City. It’s a real-life adventure game where players explore the city, engage in real estate transactions, collect artifacts, and undertake quests at specific locations.
+
+Previously engineered a cutting-edge Image Classifier app that recognizes various models of shoes and sneakers 👟 using TensorFlow and Flutter for a seamless cross-platform experience.
+
+⚙️ My GitHub Portfolio:
+
+Actively maintaining a portfolio on GitHub that showcases both ongoing and past projects, highlighting my technical skills and innovative problem-solving capabilities.
+📚 Continuous Learning:
+
+Deepening my expertise in TensorFlow for Machine Learning, Python for Data Science, and Flutter for robust cross-platform application development across iOS, Android, macOS, Web, Linux, and Windows Desktop.
+🤝 Collaborations and Partnerships:
+
+Keen on forging partnerships and seeking collaborative opportunities that enhance Flutter applications. Particularly interested in ventures that cater to the North American market.
+🌍 Exciting Ventures Ahead:
+
+Launching a crowdfunding campaign in May aimed at hiring talented artists and funding an advertising campaign to propel our mobile game project.
+📬 Let’s Connect:
+
+Reach out to me at klymroman@protonmail.com to explore synergies, exchange ideas, or discuss potential collaborations. I'm excited to connect with like-minded individuals and innovative thinkers!
 
 ## 👨‍💻 Work Experience:
 <p align="left">
